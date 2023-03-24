@@ -1,2 +1,0 @@
-username <- The name and password
-password <- will replace this texts
