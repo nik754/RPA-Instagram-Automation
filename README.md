@@ -10,5 +10,6 @@
 --And finally the "nrPozaCurenta.txt" and "nrPostareCurenta.txt" will act as helpers for the process to run correctly on every run. They will contain the number of the current photos that need to be posted,
   and also the number of the post (for description and hashtags). Those have to be set to one after all the posts have been made. And it will be ready for another cycle.
   
-Notes: ~The process is currently configured to post 2 photos on every post, a description and a succesion of hashtags.
+# Notes
+       ~The process is currently configured to post 2 photos on every post, a description and a succesion of hashtags.
        ~For the program to run scheduled it is neccesary to be set up in the Uipath Studio Orchestrator after being published on the platform.
