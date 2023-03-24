@@ -1,5 +1,5 @@
 # RPA_Project
-  This project was made upon a recruitment intreview in Uipath Studio Community. The project is shaped for Instagram web, and it implements the full process of content posting on the social media. It takes all the photos and information needed, and the bot can post different content everyday by being scheduled.
+  The project was made upon a RPA intern interview using Uipath Studio Community. The project is shaped for Instagram web, and it implements the full process of content posting on the social media. It takes all the photos and information needed, and the bot can post different content everyday by being scheduled.
 
 --The "Account.txt" file will contain the information of the account to which the posts will be made. It needs an username on the first line and a password on the second.
 
