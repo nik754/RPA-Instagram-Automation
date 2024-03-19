@@ -15,3 +15,5 @@
    ~The process is currently configured to post 2 photos on every post, a description and a succesion of hashtags.                          
    
    ~For the program to run scheduled, it has to be set up in the Uipath Studio Orchestrator after being published on the platform or in Windows Task scheduler.
+
+   ~A video example of the automation can be seen at the link in the "RPA_Project_Video_Example.txt" file
