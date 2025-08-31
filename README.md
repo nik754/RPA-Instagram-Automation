@@ -1,11 +1,11 @@
 # Info
---The "Account.txt" file will contain the information of the account to which the posts will be made. It needs an username on the first line and a password on the second.
+-The "Account.txt" file will contain the information of the account to which the posts will be made. It needs an username on the first line and a password on the second.
 
---The "Description.txt" file will contain the texts with the Description wanted to be written on every post. First line will be written to the first post, the second one to the second post and so on.
+-The "Description.txt" file will contain the texts with the Description wanted to be written on every post. First line will be written to the first post, the second one to the second post and so on.
 
---The "Hashtags.txt" file will contain the texts with the Hashtags wanted to be written on every post. First line will be written to the first post, the second one to the second post and so on.
+-The "Hashtags.txt" file will contain the texts with the Hashtags wanted to be written on every post. First line will be written to the first post, the second one to the second post and so on.
 
---And finally the "nrPozaCurenta.txt" and "nrPostareCurenta.txt" will act as helpers for the process to run correctly on every run. They will contain the number of the current photos that need to be posted,
+-And finally the "nrPozaCurenta.txt" and "nrPostareCurenta.txt" will act as helpers for the process to run correctly on every run. They will contain the number of the current photos that need to be posted,
   and also the number of the post (for description and hashtags). Those have to be set to one after all the posts have been made. And it will be ready for another cycle.
   
 # Notes
