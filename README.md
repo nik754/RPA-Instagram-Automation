@@ -9,8 +9,8 @@
   and also the number of the post (for description and hashtags). Those have to be set to one after all the posts have been made. And it will be ready for another cycle.
   
 # Notes
-   ~The process is currently configured to post 2 photos on every post, a description and a succesion of hashtags.                          
+   -The process is currently configured to post 2 photos on every post, a description and a succesion of hashtags.                          
    
-   ~For the program to run scheduled, it has to be set up in the Uipath Studio Orchestrator after being published on the platform or in Windows Task scheduler.
+   -For the program to run scheduled, it has to be set up in the Uipath Studio Orchestrator after being published on the platform or in Windows Task scheduler.
 
-   ~A video example of the automation can be seen at the link in the "RPA_Project_Video_Example" file
+   -A video example of the automation can be seen at the link in the "RPA_Project_Video_Example" file
